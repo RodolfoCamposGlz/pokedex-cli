@@ -185,6 +185,7 @@ func commandHelp(config *Config, args []string) error {
     fmt.Println("- explore: Explore areas")
     fmt.Println("- catch: catch a pokemon ")
     fmt.Println("- inspect: inspect a pokemon ")
+    fmt.Println("- pokedex: see all catched pokemons ")
 	return nil
 }
 
